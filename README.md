@@ -4,9 +4,11 @@ Audiobook Processor 📚
 
 
 A Python script to process audiobook folders containing multiple MP3 files by merging them into a single MP3 file and updating the ID3 tags.
+
 Description 📝
 
 This Python script takes a folder containing multiple MP3 files and merges them into a single MP3 file. It also reads the ID3 tags from the first input MP3 file and applies them to the merged output file. This is particularly useful for audiobook listeners who prefer to manage their audiobooks as single files, rather than multiple files per book.
+
 Features 🔥
 
     Merges multiple MP3 files into a single MP3 file.
@@ -14,6 +16,7 @@ Features 🔥
     Skips already processed audiobook folders to save time and effort.
     Displays progress with the help of emojis and a progress bar for better user experience.
     Provides detailed output information for each processed audiobook.
+
 
 Dependencies 📦
 

@@ -50,7 +50,7 @@ Usage 🚀
 
 Run the script using Python:
 
-`python audiobook_processor.py`
+`python3 bookbuilder.py`
 
 Input the path to the base directory containing the audiobook folders when prompted. The script will then process each folder and provide detailed output information.
 

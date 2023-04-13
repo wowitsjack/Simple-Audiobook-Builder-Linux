@@ -24,10 +24,12 @@ This Python script takes a folder containing multiple MP3 files and merges them 
 - tqdm
 - humanfriendly
 - emoji
+- googlesearch-python 
+- beautifulsoup4
 
 You can install these dependencies using pip:
 
-`pip install eyed3 pydub tqdm humanfriendly emoji`
+`pip install eyed3 pydub tqdm humanfriendly emoji googlesearch-python beautifulsoup4`
 
 
 **How It Works 💻**

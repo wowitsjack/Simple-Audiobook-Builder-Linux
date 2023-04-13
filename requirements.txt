@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+eyed3 
+pydub 
+tqdm 
+humanfriendly 
+emoji

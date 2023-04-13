@@ -19,6 +19,7 @@ This Python script takes a folder containing multiple MP3 files and merges them 
 
 **Dependencies 📦**
 
+- ffmpeg
 - eyed3
 - pydub
 - tqdm
@@ -29,7 +30,9 @@ This Python script takes a folder containing multiple MP3 files and merges them 
 
 You can install these dependencies using pip:
 
-`pip install eyed3 pydub tqdm humanfriendly emoji googlesearch-python beautifulsoup4`
+`pip install eyed3 pydub tqdm humanfriendly emoji googlesearch-python beautifulsoup4 ffmpeg`
+
+Linux users can also use `sudo apt install ffmpeg` 
 
 
 **How It Works 💻**
